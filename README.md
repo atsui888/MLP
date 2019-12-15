@@ -1,1 +1,1 @@
-# Perceptron
+# MLP - Multilayer Perceptron
